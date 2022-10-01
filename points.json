@@ -44,5 +44,10 @@
     "longitude": -79.413711,
     "radius":500,
     "audio":"https://www.dropbox.com/s/2m49izro2zgxp4c/Casa%20Loma_0.mp3?dl=1"
-  }  
+  },{
+    "latitude":43.778463,
+    "longitude": -79.413169,
+    "radius":100,
+    "audio":"https://www.dropbox.com/s/8hqxylsi4yld4eb/The%20Don%20Valley%20Brik%20Work_0.mp3?dl=1"
+  }
 ]
