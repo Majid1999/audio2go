@@ -32,7 +32,13 @@
   },{
     "latitude":43.780368,
     "longitude": -79.415298,
-    "radius":800,
+    "radius":500,
     "audio":"https://www.dropbox.com/s/0vffs0w7ko9e5ih/AgaKhanMuseum_0.mp3?dl=1"
+  },{
+    "latitude":43.772869,
+    "longitude": -79.413711,
+    "radius":500,
+    "audio":"https://www.dropbox.com/s/2m49izro2zgxp4c/Casa%20Loma_0.mp3?dl=1"
   }
+    
 ]
