@@ -1,35 +1,5 @@
 [
   {
-    "latitude":37.4123,
-    "longitude": -122.0777,
-    "radius":500,
-    "audio":"https://moodet.ir/upload/song991107/PianoSolo.mp3"
-  },{
-    "latitude":37.3984,
-    "longitude": -122.0966,
-    "radius":200,
-    "audio":"https://moodet.ir/upload/song991107/Guitarsolo.mp3"
-  },{
-    "latitude":37.3511,
-    "longitude": -122.0843,
-    "radius":900,
-    "audio":"https://www.dropbox.com/s/0t19wg3uf2hm8kp/cribhanging.mp3?dl=1"
-  },{
-    "latitude":37.4123,
-    "longitude": -122.0777,
-    "radius":500,
-    "audio":"https://moodet.ir/upload/song991107/Bells.mp3"
-  },{
-    "latitude":37.3617,
-    "longitude": -122.0373,
-    "radius":500,
-    "audio":"https://moodet.ir/upload/song991107/Cello.mp3"
-  },{
-    "latitude":37.3920,
-    "longitude": -122.0248,
-    "radius":500,
-    "audio":"https://moodet.ir/upload/song991107/BeSooyeTo.mp3"
-  },{
     "latitude":43.780523,
     "longitude": -79.415513,
     "radius":500,
@@ -54,5 +24,5 @@
     "longitude": -79.387923,
     "radius":500,
     "audio":"https://www.dropbox.com/s/81z61cd972vxstu/The%20Lawrence%20Market_0.mp3?dl=1"
-  },
+  }
 ]
